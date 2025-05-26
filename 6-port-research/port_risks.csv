@@ -1,0 +1,3 @@
+Port,Service,Common Use,Security Risks
+53,tcp,DNS,Cache poisoning, DNS spoofing, amplification attacks
+7070,tcp,RealServer Streaming Server,Unauthorized access, buffer overflow vulnerabilities
