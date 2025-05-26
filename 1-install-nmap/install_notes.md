@@ -1,7 +1,7 @@
 # Installation Notes for Nmap
 
 ## 📅 Date of Installation
-- [Replace this with your actual install date, e.g., May 26, 2025]
+- [ May 26, 2025]
 
 ## 🖥️ System Information
 - **OS**: Kali Linux (or your OS)
